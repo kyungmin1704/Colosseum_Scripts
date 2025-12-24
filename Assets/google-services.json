@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "515971131073",
+    "firebase_url": "https://nt03-colosseum-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "nt03-colosseum",
+    "storage_bucket": "nt03-colosseum.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515971131073:android:886f90a512c75b573ad640",
+        "android_client_info": {
+          "package_name": "com.NT03.ColoSSeum"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7t9DIMkP9jSmPwkBqmSPQxU9fJ5CghCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
